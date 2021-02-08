@@ -10,9 +10,9 @@ Prácticas
 * [Práctica 5](https://aztlan.fciencias.unam.mx/gitlab/2021-1-icc/practica5) (fecha de entrega: 24 de noviembre de 2020)
 * [Práctica 6](https://aztlan.fciencias.unam.mx/gitlab/2021-1-icc/practica6) (fecha de entrega: 1º de diciembre de 2020)
 * [Práctica 7](https://aztlan.fciencias.unam.mx/gitlab/2021-1-icc/practica7) (fecha de entrega: 8 de diciembre de 2020)
-* [Práctica 8](https://aztlan.fciencias.unam.mx/gitlab/2021-1-icc/practica8) (fecha de entrega: 5 de enero de 2020)
-* [Práctica 9](https://aztlan.fciencias.unam.mx/gitlab/2021-1-icc/practica9) (fecha de entrega: 19 de enero de 2020)
-* [Práctica 10](https://aztlan.fciencias.unam.mx/gitlab/2021-1-icc/practica10) (fecha de entrega: 2 de enero de 2020)
+* [Práctica 8](https://aztlan.fciencias.unam.mx/gitlab/2021-1-icc/practica8) (fecha de entrega: 5 de enero de 2021)
+* [Práctica 9](https://aztlan.fciencias.unam.mx/gitlab/2021-1-icc/practica9) (fecha de entrega: 19 de enero de 2021)
+* [Práctica 10](https://aztlan.fciencias.unam.mx/gitlab/2021-1-icc/practica10) (fecha de entrega: 2 de febrero de 2021)
 
 Formato de entrega
 ------------------
