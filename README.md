@@ -1,5 +1,5 @@
 # Introducción a Ciencias de la Computación [2021-1]
-Prácticas y proyectos hechos durante el curso de Introducción a Ciencias de la Computación con Canek Peláez Valdés
+Prácticas y proyectos hechos durante el curso de Introducción a Ciencias de la Computación 2021-1 con Canek Peláez Valdés
 
 Temario del curso
 -----------------
